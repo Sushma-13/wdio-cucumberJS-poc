@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "wdio-allure-reporter": "^0.8.3",
+    "wdio-cucumber-framework": "^2.2.8",
+    "wdio-dot-reporter": "0.0.10",
+    "wdio-selenium-standalone-service": "0.0.12",
+    "webdriverio": "^4.14.4"
+  }
+}
